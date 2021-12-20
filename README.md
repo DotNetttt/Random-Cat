@@ -1,4 +1,4 @@
 # Random-Cat
 Just Randoms Cats with python.
 
-![alt text](https://i.imgur.com/7tOfxWs.png)
+![alt text](https://i.imgur.com/sTqfaD9.png)
