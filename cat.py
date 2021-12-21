@@ -2,7 +2,7 @@ import requests
 from msvcrt import getch
 
 url = 'https://cataas.com/cat'
-filename = 'meow.jpg'
+filename = 'cat.jpg'
 
 r = requests.get(url)
 
